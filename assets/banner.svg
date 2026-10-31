@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#111827"/></linearGradient>
+ <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#10B981"/><stop offset="1" stop-color="#84CC16"/></linearGradient>
+ <radialGradient id="glow" cx="0.85" cy="0.2" r="0.6"><stop offset="0" stop-color="#10B981" stop-opacity="0.35"/><stop offset="1" stop-color="#10B981" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.04"/></pattern>
+</defs>
+<rect width="1280" height="320" rx="18" fill="url(#bg)"/>
+<rect width="1280" height="320" rx="18" fill="url(#grid)"/>
+<rect width="1280" height="320" rx="18" fill="url(#glow)"/>
+<rect x="60" y="52" width="210" height="30" rx="15" fill="url(#ac)" fill-opacity="0.2" stroke="url(#ac)"/>
+<text x="165" y="72" text-anchor="middle" font-size="13" font-weight="700" fill="#F8FAFC" letter-spacing="1">POINT OF SALE · RETAIL</text>
+<text x="60" y="142" font-size="54" font-weight="800" fill="#F8FAFC">Safal Tech Mart POS</text>
+<rect x="60" y="156" width="120" height="5" rx="2.5" fill="url(#ac)"/>
+<text x="60" y="185" font-size="21" fill="#CBD5E1">Grocery &amp; mart POS desktop app — billing, inventory, promotions</text><text x="60" y="215" font-size="21" fill="#CBD5E1">engine, loyalty and khata</text>
+<rect x="60" y="250" width="83" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/><text x="102" y="272" text-anchor="middle" font-size="14" fill="#E2E8F0" font-weight="600">Electron</text><rect x="153.2" y="250" width="58" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/><text x="182" y="272" text-anchor="middle" font-size="14" fill="#E2E8F0" font-weight="600">React</text><rect x="221.2" y="250" width="75" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/><text x="259" y="272" text-anchor="middle" font-size="14" fill="#E2E8F0" font-weight="600">Express</text><rect x="306.0" y="250" width="66" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/><text x="339" y="272" text-anchor="middle" font-size="14" fill="#E2E8F0" font-weight="600">SQLite</text><rect x="382.4" y="250" width="50" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/><text x="407" y="272" text-anchor="middle" font-size="14" fill="#E2E8F0" font-weight="600">Vite</text>
+<text x="1220" y="296" text-anchor="end" font-size="14" fill="#64748B">Built by Muhammad Faizan · Rootocloud</text>
+</svg>
